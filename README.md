@@ -1,0 +1,2 @@
+# latmus
+homelab design
