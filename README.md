@@ -1,2 +1,2 @@
-# latmus
+# Chaos
 homelab design
